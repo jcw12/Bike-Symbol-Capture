@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Bike-Symbols']
+
+roboflow:
+  workspace: james-currie-r6etp
+  project: bike-symbol-detection
+  version: 7
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/james-currie-r6etp/bike-symbol-detection/dataset/7
