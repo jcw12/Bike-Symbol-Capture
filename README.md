@@ -4,7 +4,7 @@ Using a CNN (Yolov8) to capture bike symbols from aerial imagery. Relevant for f
 
 <img src="https://github.com/jcw12/Bike-Symbol-Capture/assets/36462497/d444e6b5-55e3-42df-be1e-42bb188fb147)">
 
-This project used Roboflow for labeling data and used unlicenced CIP imagery from the Vicmap Basemap, meaning that it is <b><ins><i>not suitable for commercial use.</b></ins></i>
+This project used Roboflow for labeling data and used unlicensed CIP imagery from the Vicmap Basemap, meaning that it is <b><ins><i>not suitable for commercial use.</b></ins></i>
 
 ---
 
