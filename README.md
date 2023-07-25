@@ -24,4 +24,6 @@ By default the function is run as:
 
 The outputs of this are included in the dataset. 'Target_Area' is the area defined by the input coordinates, and the 'Predicted_Bikes'.shp contains the location of predicted bikes, with the confidence as an attribute.
 ---
+<i>This model was trained on magnitudes less than the recommended training data, and is extremely inaccurate, capturing less than half of the admittedly small validation / test data. This is a proof of concept, not a finished product </i>
+
 This project was created by James Currie, reach out to me at jcurrie987@gmail.com with any queries or comments
